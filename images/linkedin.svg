@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223" height="223" viewBox="0 0 223 223">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.122" y1="0.096" x2="0.943" y2="0.936" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a66c2"/>
+      <stop offset="1" stop-color="#0a66c2"/>
+    </linearGradient>
+  </defs>
+  <g id="linkedin" transform="translate(-71 -1365)">
+    <rect id="Rectangle_93" data-name="Rectangle 93" width="223" height="223" transform="translate(71 1365)" fill="url(#linear-gradient)"/>
+    <path id="Icon_awesome-linkedin" data-name="Icon awesome-linkedin" d="M82.429,2.25H6.321A6.368,6.368,0,0,0,0,8.65V84.62a6.368,6.368,0,0,0,6.321,6.4H82.429a6.385,6.385,0,0,0,6.341-6.4V8.65A6.385,6.385,0,0,0,82.429,2.25Zm-55.6,76.089H13.672V35.975H26.849V78.339Zm-6.579-48.15a7.629,7.629,0,1,1,7.629-7.629,7.632,7.632,0,0,1-7.629,7.629Zm55.9,48.15H62.991V57.731c0-4.914-.1-11.235-6.836-11.235-6.856,0-7.906,5.35-7.906,10.878V78.339H35.092V35.975H47.714v5.786h.178c1.764-3.329,6.063-6.836,12.463-6.836,13.316,0,15.792,8.778,15.792,20.191Z" transform="translate(138.682 1429.68)" fill="#fff"/>
+  </g>
+</svg>

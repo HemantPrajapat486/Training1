@@ -1,0 +1,216 @@
+@media  (max-width:991px){
+    .hamburger{
+        visibility:visible;
+        margin-right: 20px;
+    }
+
+    .header-button{
+        visibility: hidden;
+    }
+
+    .header{
+        height:8vh;
+    }
+
+    #habile-logo{
+        width:250px;
+        height:auto;
+        position: absolute;
+        margin-top:20px;
+    }
+
+    .message{
+        height:60vh;
+    }
+
+    .message{
+        background-image: url(https://static.habilelabs.io/team_eb409ca1f8.svg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .message h1{
+        font-size:35px;
+    }
+
+    .leader h1{
+        padding-top: 30px;
+        font-size: 35px;
+    }
+
+    .card-container{
+        display:flex;
+        flex-direction: row;
+        flex-wrap:wrap;
+    }
+
+    .card-item{
+        padding:10px;
+    }
+
+    .footer-container{
+        height:25vh;
+    }
+
+
+}
+
+@media  (max-width:769px){
+    .hamburger{
+        visibility:visible;
+        margin-right: 20px;
+    }
+
+    .header-button{
+        visibility: hidden;
+    }
+
+    .header{
+        height:10vh;
+    }
+
+    #habile-logo{
+        width:300px;
+        height:auto;
+        position: absolute;
+        margin-top:20px;
+    }
+
+    .message{
+        height:50vh;
+        background-image: url(https://static.habilelabs.io/team_eb409ca1f8.svg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .message h1{
+        font-size:25px;
+    }
+
+    .message a{
+        display: inline-block;
+        padding:5px 10px;
+        margin-top:80px;
+        margin-left:20px;
+    }
+
+    .leader{
+        height:10vh;
+    }
+
+    .leader h1{
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+    .leader p{
+        margin-bottom:30px;
+        font-size:13px;
+        padding:0px;
+    }
+
+    .card-container{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .card-item{
+        padding:10px;
+    }
+
+
+}
+
+
+@media screen and (max-width:481px){
+    .hamburger{
+        visibility:visible;
+        margin-right: 20px;
+    }
+
+    .header-button{
+        visibility: hidden;
+    }
+
+    .header{
+        height:8vh;
+    }
+
+    #habile-logo{
+        width:200px;
+        height:auto;
+        position: absolute;
+        margin-top:20px;
+    }
+
+    .message{
+        height:45vh;
+        background-color: red;
+        /* background-image: url(https://static.habilelabs.io/team_eb409ca1f8.svg); */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .message p{
+        margin-top: 60px;
+        margin-left: 20px;
+        font-size: 10px;
+    }
+
+    .message h1{
+        font-size:22px;
+        text-shadow: none;
+    }
+
+    .message a{
+        display: inline-block;
+        padding:5px 10px;
+        margin-top:80px;
+        margin-left:20px;
+    }
+
+    .leader h1{
+        padding-top: 20px;
+        font-size: 20px;
+    }
+
+    .leader p{
+        font-size:12px;
+        line-height:1.5;
+    }
+
+    .card-container{
+        display:grid;
+        grid-template-columns: 1fr;
+    }
+
+    .card-item{
+        padding:10px;
+    }
+
+    .footer-container{
+        display:flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+
+    .footer-container{
+        padding:20px 0px;
+        height:20vh;
+    }
+
+    .footer-container h4{
+        padding: 10px;
+        font-size: 15px;
+        cursor: pointer;
+    }  
+    
+    .footer-container p{
+        display: none;
+    }
+
+
+}
